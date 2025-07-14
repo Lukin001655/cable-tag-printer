@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-pandas = pd
-os = os
+import pandas as pd
+import os
 
 class ExcelHandler:
     def __init__(self):
